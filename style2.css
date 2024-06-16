@@ -1,0 +1,63 @@
+
+#heading{
+    font-size: xx-large;
+        
+    color: rgb(60, 28, 28);
+
+            text-align:center;
+            margin:40px
+}
+.paragraphn{
+    color:black; 
+          background-color:rgb(10, 10, 10); 
+          text-align:left;
+          margin:10px;
+}
+.paragraph1{
+    color:black; 
+          background-color:bisque; 
+          text-align:left;
+          margin:20px;
+}
+.paragraph2{
+    color:black; 
+          background-color:rgb(112, 214, 92); 
+          text-align:left;
+          margin:10px;
+}
+.paragraph3{
+    color:black; 
+          background-color:rgb(215, 243, 77); 
+          text-align:left;
+          margin:10px;
+}
+.paragraph4{
+    color:black; 
+          background-color:rgb(212, 150, 204); 
+          text-align:left;
+          margin:10px;
+}
+.paragraph5{
+    color:black; 
+          background-color:rgb(207, 139, 72); 
+          text-align:left;
+          margin:10px;
+}
+.paragraph6{
+    color:black; 
+          background-color:rgb(96, 17, 138); 
+          text-align:left;
+          margin:10px;
+}
+.paragraph7{
+    color:black; 
+          background-color:rgb(112, 117, 135); 
+          text-align:left;
+          margin:10px;
+}
+.paragraph8{
+    color:black; 
+          background-color:rgb(28, 156, 99); 
+          text-align:left;
+          margin:10px;
+}
